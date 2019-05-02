@@ -1,6 +1,6 @@
 Package: stjudem
 Title: Microarray Data from Yeoh et al. in MACAT format
-Version: 1.24.0
+Version: 1.25.0
 Date: 2006-9-15
 Depends: R (>= 2.10), utils
 Author: Benjamin Georgi, Matthias Heinig, Sebastian Schmeier, Joern Toedling
